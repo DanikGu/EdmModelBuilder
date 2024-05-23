@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdmModelBuilder", "EdmModelBuilder.csproj", "{22A05C9A-011F-4DEF-9166-2CF909322E33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A05C9A-011F-4DEF-9166-2CF909322E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A05C9A-011F-4DEF-9166-2CF909322E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A05C9A-011F-4DEF-9166-2CF909322E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A05C9A-011F-4DEF-9166-2CF909322E33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC348D21-929D-4AB5-8B15-38339623A502}
+	EndGlobalSection
+EndGlobal
